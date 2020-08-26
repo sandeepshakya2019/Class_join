@@ -1,0 +1,13 @@
+
+.no{
+	display: none;
+}
+.yes {
+	display: block;
+}
+.border{
+	border: 2px solid red;
+	background-image: linear-gradient(#0F2027, #203A43,#2C5364);
+	color: white;
+	margin-top: 50px;
+}
